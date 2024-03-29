@@ -1,9 +1,9 @@
 # TrackingMore: DHL eCommerce Tracking API
-[DHL eCommerce Tracking API](https://www.trackingmore.com/dhlglobalmail-tracking-api.html) enables you to connect tracking info of DHL eCommerce shipments into your system, improving shipment visibility. 
+[DHL eCommerce Tracking API](https://www.trackingmore.com/dhlglobalmail-tracking-api.html) enhances shipment tracking by merging DHL eCommerce's data into your systems, improving management and visibility. 
 
 Besides DHL eCommerce, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
 
-TrackingMore provides API compatibility with seven programming languages. Comprehensive documentation for setup and use is included within this repository to facilitate the integration process.
+The TrackingMore API is compatible with seven programming languages and accompanied by straightforward documentation, ensures smooth integration and operation.
 
 ### Features
    *  Unified real-time tracking information for DHL eCommerce shipments.
@@ -11,7 +11,7 @@ TrackingMore provides API compatibility with seven programming languages. Compre
 
 ### Tracking Status Glossary
 
-We categorize shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
+TrackingMore categorizes shipment statuses into clear, concise strings like pending, notfound, transit, and more, each indicating a specific stage in the shipment's journey.
 String | Description 
 ----|------
 inforeceived | The courier has received the package info and is about to pick up the package.
