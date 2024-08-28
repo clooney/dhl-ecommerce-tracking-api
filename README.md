@@ -1,7 +1,7 @@
 # TrackingMore: DHL eCommerce Tracking API & Webhook
 [DHL eCommerce Tracking API](https://www.trackingmore.com/dhlglobalmail-tracking-api.html) enhances shipment tracking by merging DHL eCommerce's data into your systems, improving management and visibility. 
 
-Besides DHL eCommerce, TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
+Besides [DHL eCommerce tracking](https://www.trackingmore.com/dhlglobalmail-tracking.html), TrackingMore supports shipment tracking across 1,200+ global carriers through a robust [multi-carrier shipment tracking API](https://www.trackingmore.com/tracking-api).
 
 The TrackingMore API is compatible with seven programming languages and accompanied by straightforward documentation, ensures smooth integration and operation.
 
